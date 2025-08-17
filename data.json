@@ -1,0 +1,75 @@
+{
+    "products": [
+        {
+            "name": "Portfel",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 2",
+            "mainPhoto": "4.jpg",
+            "gallery": [
+                "20250510_101017.jpg",
+                "20250510_101025.jpg",
+                "20250510_101052.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 3",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 4",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 5",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 6",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 7",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        },
+        {
+            "name": "Portfel 8",
+            "mainPhoto": "1.jpg",
+            "gallery": [
+                "2.jpg",
+                "3.jpg",
+                "4.jpg"
+            ]
+        }
+    ]
+}
